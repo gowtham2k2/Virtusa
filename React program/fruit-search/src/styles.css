@@ -1,0 +1,14 @@
+.app {
+    font-family: cursive;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    height: 100vh;
+   font-family: cursive;;
+    background-image: linear-gradient(45deg,green, yellow, orange);
+  }
+  .wrapper{
+    
+  }
